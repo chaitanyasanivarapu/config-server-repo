@@ -4,6 +4,6 @@ spring.datasource.password=Root
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 spring.config.import=optional:configserver:http://localhost:8888
 
-spring.boot.message=Hello,Department Service
+spring.boot.message=Hello,Department Service updated
 spring.jpa.hibernate.ddl-auto = update
 eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
